@@ -5,6 +5,7 @@ Second time ading
 
 One more line
 for USA2
+<<<<<<< HEAD
 nch has been added
 D
 Hello adding for conflict
@@ -12,6 +13,8 @@ Hello adding for conflict
 Confict add One
 adding file for conflict
 1
+=======
+>>>>>>> parent of 93abddc (commit added)
 =======
 >>>>>>> parent of 93abddc (commit added)
 =======
